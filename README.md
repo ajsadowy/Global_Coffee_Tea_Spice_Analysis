@@ -12,6 +12,7 @@ Possible questions or ideas to investigate:
 The exports and imports of trade goods by weight and region.   
 Difference in pricing of the same goods by weight compared to region.   
 Which products are the most exported or imported from each region?
+The exports and imports of trade goods by year and region.   
 
 
 ## Data files
