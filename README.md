@@ -23,6 +23,6 @@ Difference in pricing of the same goods by weight compared to region.
 
 
 # Communication
-Slack for direct messages, discord for and email.   
+Slack for direct messages, discord for any extra video calls as needed, and email.   
    
 # 
