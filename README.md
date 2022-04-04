@@ -15,7 +15,9 @@ Difference in pricing of the same goods by weight compared to region.
 
 ## Data files
 [UNdata_TradeGoods_Coffee&Tea.csv](https://github.com/ajsadowy/MMA_GROUP/files/8411796/UNdata_TradeGoods_Coffee.Tea.csv)
+
 [Uploading UNdata_TradeGoods_Spices1.csv…]()
+
 [UNdata_TradeGoods_Spices2.csv](https://github.com/ajsadowy/MMA_GROUP/files/8411806/UNdata_TradeGoods_Spices2.csv)
 
 ## Machine Learning
