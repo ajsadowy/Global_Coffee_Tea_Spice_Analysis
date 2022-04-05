@@ -30,7 +30,7 @@ Unfortunately, when attempting to run our script we recieved an error message wi
 ### Resources   
 * [UN Data for Trade Goods](http://data.un.org/Default.aspx)   
 * [Nate from StrataScratch Python Script](https://github.com/Strata-Scratch/csv_to_db_automation)
-* 
+* [Using Unsupervised Machine Learning from Our Cryptocurrency Analysis](https://github.com/ajsadowy/Cryptocurrency_Analysis)   
 ### Project Team Members   
 * [Adam Sadowy](https://github.com/ajsadowy)   
 * [Thi Ngo](https://github.com/Thingo2906)   
