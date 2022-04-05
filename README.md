@@ -8,6 +8,9 @@ The purpose of this project is to explore global import and export data of commo
 ### Process   
 
 #### Data Collection   
+We gather data from [UN Data website](http://data.un.org/Default.aspx), a great repository for data files on global topics. Specifically [here]( http://data.un.org/Data.aspx?d=ComTrade&f=_l1Code%3a10), we were able to download the csv files on the topic of global trade on coffee, tea, mate, and spices.   
+
+On this site we came across our first obstacle, the site had a limitation of how large the csv file can be downloaded. Luckily the site allows for filtering the data based on topics like trade goods, country of origins, and year. We were able to get the complete data by downloading seperate csv files based on trade goods. With this we had workable csv files.   
 
 #### Exploratory Analysis
 
