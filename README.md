@@ -35,7 +35,7 @@ Unfortunately, when attempting to run our script we recieved an error message wi
 * [Adam Sadowy](https://github.com/ajsadowy)   
 * [Thi Ngo](https://github.com/Thingo2906)   
 * [Olena Rabani](https://github.com/olenarabani)   
-* [Josie Boyer]()   
+* [Josie Boyer](https://github.com/JosieBoyer)   
 * [Shawn Toosi]()
 ### Team Communication
 * Slack - Most direct form of communication when working.   
