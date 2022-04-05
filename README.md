@@ -34,7 +34,7 @@ Unfortunately, when attempting to run our script we recieved an error message wi
 ### Project Team Members   
 * [Adam Sadowy](https://github.com/ajsadowy)   
 * [Thi Ngo](https://github.com/Thingo2906)   
-* [Olena Rabani]()   
+* [Olena Rabani](https://github.com/olenarabani)   
 * [Josie Boyer]()   
 * [Shawn Toosi]()
 ### Team Communication
