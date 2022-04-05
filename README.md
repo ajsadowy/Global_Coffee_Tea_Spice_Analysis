@@ -1,34 +1,27 @@
-# MMA_GROUP
-
-DATA ANALYTIC BOOTCAMP FINAL GROUP PROJECT REPOSITORY    
-
-# Planning Stage
-
-# TOPIC   
-We will utilize the data collected from the UN to analyze the import and export of Coffee, Tea, Mate, and Spices.   
-Our source for the data can be found here: LINK: http://data.un.org/Data.aspx?d=ComTrade&f=_l1Code%3a10   
-
-Possible questions or ideas to investigate:   
-The exports and imports of trade goods by weight and region.   
-Difference in pricing of the same goods by weight compared to region.   
-
-
-## Data files
-[UNdata_TradeGoods_Coffee&Tea.csv](https://github.com/ajsadowy/MMA_GROUP/files/8411796/UNdata_TradeGoods_Coffee.Tea.csv)
-
-[Uploading UNdata_TradeGoods_Spices1.csv…]()
-
-[UNdata_TradeGoods_Spices2.csv](https://github.com/ajsadowy/MMA_GROUP/files/8411806/UNdata_TradeGoods_Spices2.csv)
-
-## Machine Learning
-we employed unsupervised machine learning models and algorithms as a major tool.
-
+# Global Coffee, Tea, and other Spices Analysis   
    
-## Database   
-   
+## Project Overview   
 
+### Process   
 
-# Communication
-Slack for direct messages, and email.   
-   
-# 
+#### Data Collection   
+
+#### Exploratory Analysis
+
+#### Preperation of the Data and Database Storage   
+
+#### Machine Learning Models   
+
+#### Conclusions
+
+### Resources   
+
+### Project Team Members
+
+### Neural Network   
+
+### Team Communication
+* Slack - Most direct form of communication when working.   
+* Zoom  - Biweekly meetings to see where everyone is with the project.   
+* Group Text Group - Direct communication when away from project.   
+* Discord - Back up communication if Zoom were to fail.   
