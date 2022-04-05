@@ -23,7 +23,8 @@ To host the database we attempted to use Amazon Web Services (AWS).
 
 Unfortunately, when attempting to run our script we recieved an error message with being timed out from connecting AWS. Troubleshooting is necessary for the future by contacting AWS customer support.   
 #### Machine Learning Models   
-* Unsupervised Machine Learning   
+* Unsupervised Machine Learning 
+ - Our goal for this model was to discover possible trends in the world of the spice trade. Using an unsupervised machine learning and clustering algorithms to find patterns whether a good is imported, exported, re-imported, or re-exported.   
 * Neural Network Model
 
 #### Conclusions
