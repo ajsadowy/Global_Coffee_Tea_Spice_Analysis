@@ -18,16 +18,23 @@ With the csv files we began exploring the data with utilizing Tablaeu to get som
 ![pic](https://github.com/ajsadowy/Global_Coffee_Tea_Spice_Analysis/blob/PossibleFinal/Tablaeu_Images/THE%20TOP%2010%20TRADING%20(BY%20WEIGHT-KG)%20COUNTRIES.png)   
 #### Preperation of the Data and Database Storage   
 One issue with setting up the postgres SQL database is transforming the data types of the csv file to a usable format to upload to the database. Our attempt was to follow a python script created by [Nate from StrataScratch](https://github.com/Strata-Scratch/csv_to_db_automation). With this script we could update the datatypes on our csv files to a usable datatype encoding to upload a df to our database.
-
+![pic](https://github.com/ajsadowy/Global_Coffee_Tea_Spice_Analysis/blob/PossibleFinal/Images/clean.png)   
 To host the database we attempted to use Amazon Web Services (AWS).   
 
 Unfortunately, when attempting to run our script we recieved an error message with being timed out from connecting AWS. Troubleshooting is necessary for the future by contacting AWS customer support.   
+![pic](https://github.com/ajsadowy/Global_Coffee_Tea_Spice_Analysis/blob/PossibleFinal/Images/Untitled.png)   
 #### Machine Learning Models   
-* Unsupervised Machine Learning 
- - Our goal for this model was to discover possible trends in the world of the spice trade. Using an unsupervised machine learning and clustering algorithms to find patterns whether a good is imported, exported, re-imported, or re-exported.   
-* Neural Network Model
+* Unsupervised Machine Learning   -
+Our goal for this model was to discover possible trends in the world of the spice trade. Using an unsupervised machine learning and clustering algorithms to find patterns whether a good is imported, exported, re-imported, or re-exported.   
 
-#### Conclusions
+![pic](https://github.com/ajsadowy/Global_Coffee_Tea_Spice_Analysis/blob/PossibleFinal/MachineLearning/Unsupervised/ML_IMAGES/BlackTeaElbow.png)   
+![pic](https://github.com/ajsadowy/Global_Coffee_Tea_Spice_Analysis/blob/PossibleFinal/MachineLearning/Unsupervised/ML_IMAGES/TeaBlack3D.png)   
+![pic](https://github.com/ajsadowy/Global_Coffee_Tea_Spice_Analysis/blob/PossibleFinal/MachineLearning/Unsupervised/ML_IMAGES/TeaGreen2D.png)   
+* Neural Network Model   
+![pic](https://github.com/ajsadowy/Global_Coffee_Tea_Spice_Analysis/blob/PossibleFinal/Images/NN.png)
+
+#### Conclusions   
+Seeing similar trends of clustering for most spice trade goods with this data we may be able to set up a minimum cost and maximum profit models with just the additional information for shipping costs.
 
 ### Resources   
 * [UN Data for Trade Goods](http://data.un.org/Default.aspx)   
