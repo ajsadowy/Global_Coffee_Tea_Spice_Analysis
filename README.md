@@ -21,7 +21,7 @@ Difference in pricing of the same goods by weight compared to region.
 [UNdata_TradeGoods_Spices2.csv](https://github.com/ajsadowy/MMA_GROUP/files/8411806/UNdata_TradeGoods_Spices2.csv)
 
 ## Machine Learning
-
+we employed unsupervised machine learning models and algorithms as a major tool.
 
    
 ## Database   
