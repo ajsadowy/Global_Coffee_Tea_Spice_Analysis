@@ -36,7 +36,7 @@ Unfortunately, when attempting to run our script we recieved an error message wi
 * [Thi Ngo](https://github.com/Thingo2906)   
 * [Olena Rabani](https://github.com/olenarabani)   
 * [Josie Boyer](https://github.com/JosieBoyer)   
-* [Shawn Toosi]()
+* [Shawn Toosi](https://github.com/Shawn2C)
 ### Team Communication
 * Slack - Most direct form of communication when working.   
 * Zoom  - Biweekly meetings to see where everyone is with the project.   
