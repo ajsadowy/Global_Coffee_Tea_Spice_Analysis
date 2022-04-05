@@ -32,7 +32,11 @@ Unfortunately, when attempting to run our script we recieved an error message wi
 * [Nate from StrataScratch Python Script](https://github.com/Strata-Scratch/csv_to_db_automation)
 * 
 ### Project Team Members   
-
+* [Adam Sadowy](https://github.com/ajsadowy)   
+* [Thi Ngo](https://github.com/Thingo2906)   
+* [Olena Rabani]()   
+* [Josie Boyer]()   
+* [Shawn Toosi]()
 ### Team Communication
 * Slack - Most direct form of communication when working.   
 * Zoom  - Biweekly meetings to see where everyone is with the project.   
