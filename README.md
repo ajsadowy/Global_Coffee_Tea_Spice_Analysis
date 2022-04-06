@@ -3,6 +3,9 @@
 "He who controls the spice controls the universe."
 A great line from a great Sci-Fi classic Dune, our world is run on spice. Not necessarily the galatic fuel for space travel, but the type that gives us additional flavors to our culinary tastes as wells as providers of unique organic molecules used for health and personal energy benefits. The goods are consistantly traded around the world and with consistant demand it seems like an interesting topic for further statistical analysis.   
 
+## Presentation Slides  
+[Google Slides](https://docs.google.com/presentation/d/1ar_TVjZ9b3tX65JqmfR_XULhvNhESwEjbGiwPGQnDaQ/edit?usp=sharing)   
+
 ## Project Overview   
 The purpose of this project is to explore global import and export data of common coffee, tea, and other spices/herbs. We choose this topic because these trade goods are a staple to our modern world.    
 
