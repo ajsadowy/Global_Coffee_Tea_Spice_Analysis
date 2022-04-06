@@ -1,4 +1,5 @@
 # Global Coffee, Tea, and other Spices Analysis   
+![pic](https://github.com/ajsadowy/Global_Coffee_Tea_Spice_Analysis/blob/PossibleFinal/Images/40941991-2416-4bbc-95bd-40b1d55011b9.jpg)   
 "He who controls the spice controls the universe."
 A great line from a great Sci-Fi classic Dune, our world is run on spice. Not necessarily the galatic fuel for space travel, but the type that gives us additional flavors to our culinary tastes as wells as providers of unique organic molecules used for health and personal energy benefits. The goods are consistantly traded around the world and with consistant demand it seems like an interesting topic for further statistical analysis.   
 
