@@ -8,14 +8,21 @@ A great line from a great Sci-Fi classic Dune, our world is run on spice. Not ne
 
 ## Project Overview   
 The purpose of this project is to explore global import and export data of common coffee, tea, and other spices/herbs. We choose this topic because these trade goods are a staple to our modern world. 
-Coffee and spices are an integral part of our life. Isn't morning coffee and news the beginning of every movie? At home, in the office, when meeting with friends, we enjoy a cup of aromatic coffee. Our dishes are enriched with new flavors thanks to various spices both at home and in restaurants. Special small shops are opened that specialize in different types of coffee, or a variety of spices.
+ Coffee and spices are an integral part of our life. Isn't morning coffee and news the beginning of every movie? At home, in the office, when meeting with friends, we enjoy a cup of aromatic coffee. Our dishes are enriched with new flavors thanks to various spices both at home and in restaurants. Special small shops are opened that specialize in different types of coffee, or a variety of spices.
  Accordingly, the export-import analytics of these goods is very interesting.
+
 For analysis, our team used programs such as:
+
 -PostgreSQL
+
 -Tableau
+
 -Jupyter Notebook python
+
 -HTML
+
 -Google Slides
+
 Thanks to this analysis, we wanted to trace how export-import changed with the change of century and the development of delivery routes. How countries appeared and disappeared in the world market. How the volume of export-import changed in different years. Which countries have been and remain dominant in the supply of coffee / tea and spices.
 
 
