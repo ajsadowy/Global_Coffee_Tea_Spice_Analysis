@@ -36,7 +36,9 @@ Our goal for this model was to discover possible trends in the world of the spic
 ![pic](https://github.com/ajsadowy/Global_Coffee_Tea_Spice_Analysis/blob/PossibleFinal/Images/NN.png)
 
 #### Conclusions   
-Seeing similar trends of clustering for most spice trade goods with this data we may be able to set up a minimum cost and maximum profit models with just the additional information for shipping costs.
+Seeing similar trends of clustering for most spice trade goods with this data we may be able to set up a minimum cost and maximum profit models with just the additional information for shipping costs.   
+Coffee (Roasted) Cluster Model:   
+![pic](https://github.com/ajsadowy/Global_Coffee_Tea_Spice_Analysis/blob/PossibleFinal/MachineLearning/Unsupervised/ML_IMAGES/coffee%203d%20plot.png)
 
 Mate Cluster Model:   
 ![pic](https://github.com/ajsadowy/Global_Coffee_Tea_Spice_Analysis/blob/PossibleFinal/MachineLearning/Unsupervised/ML_IMAGES/Mate3D.png)   
