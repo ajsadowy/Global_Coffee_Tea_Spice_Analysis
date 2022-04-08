@@ -42,6 +42,9 @@ With the csv files we began exploring the data with utilizing Tablaeu to get som
 
 ![image](https://user-images.githubusercontent.com/93515126/162358769-028aa641-43bb-4893-a52d-0515dd4972d9.png)
 
+![image](https://user-images.githubusercontent.com/93515126/162358917-b4d9b8f0-a2d0-49fc-bc7a-adbd00ab3272.png)
+
+
 #### Preparation of the Data and Database Storage   
 One issue with setting up the postgres SQL database is transforming the data types of the csv file to a usable format to upload to the database. Our attempt was to follow a python script created by [Nate from StrataScratch](https://github.com/Strata-Scratch/csv_to_db_automation). With this script we could update the datatypes on our csv files to a usable datatype encoding to upload a df to our database.
 ![pic](https://github.com/ajsadowy/Global_Coffee_Tea_Spice_Analysis/blob/PossibleFinal/Images/clean.png)   
