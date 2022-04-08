@@ -38,7 +38,10 @@ From these three files were were able to join them into one easy to load csv fil
 
 #### Exploratory Analysis
 With the csv files we began exploring the data with utilizing Tablaeu to get some interpretable visualizations of the data.   
-![pic](https://github.com/ajsadowy/Global_Coffee_Tea_Spice_Analysis/blob/PossibleFinal/Tablaeu_Images/THE%20TOP%2010%20TRADING%20(BY%20WEIGHT-KG)%20COUNTRIES.png)   
+![pic](https://github.com/ajsadowy/Global_Coffee_Tea_Spice_Analysis/blob/PossibleFinal/Tablaeu_Images/THE%20TOP%2010%20TRADING%20(BY%20WEIGHT-KG)%20COUNTRIES.png) 
+
+![image](https://user-images.githubusercontent.com/93515126/162358769-028aa641-43bb-4893-a52d-0515dd4972d9.png)
+
 #### Preparation of the Data and Database Storage   
 One issue with setting up the postgres SQL database is transforming the data types of the csv file to a usable format to upload to the database. Our attempt was to follow a python script created by [Nate from StrataScratch](https://github.com/Strata-Scratch/csv_to_db_automation). With this script we could update the datatypes on our csv files to a usable datatype encoding to upload a df to our database.
 ![pic](https://github.com/ajsadowy/Global_Coffee_Tea_Spice_Analysis/blob/PossibleFinal/Images/clean.png)   
